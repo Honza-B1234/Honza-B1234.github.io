@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  EmTechMOOC
-date:   2022-12-1 00:52:00
+date:   2022-12-01 00:52:00
 description: 
-tags: edTech prvniSemetr MOOC ISKM61 EN
+tags: edTech prvniSemestr MOOC ISKM61 EN
 categories: edTech
 ---
 
