@@ -18,5 +18,3 @@ This module introduces different accessibility tools for web, who uses them and 
 
 #### So what is Web Accessibility?
 So far I have learned that from design perspective disability can be seen as mismatch between service and user. Web Accessibility means actively avoiding this mismatch.
-
-### Week two
