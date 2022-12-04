@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  MOOC - Introduction to Web Accessibility
-date:   2022-12-05 00:30:00
+date:   2022-12-04 00:30:00
 description: 
 tags: edTech prvniSemestr MOOC ISKM61 EN KISK
 categories: edTech
