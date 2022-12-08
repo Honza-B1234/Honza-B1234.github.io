@@ -35,3 +35,8 @@ Focus of this section is on closed captions and transcripts used by people with 
 
 #### Cognitive and Learning disabilities 
 This section introduces the the concept of visual overload and puts it into context of cognitive or learning disability. For example websites that are too "busy" and hard to navigate for people without disabilities can be almost unusable to those with disabilities. Users with cognitive or learning disability can also use some combination of accesibility tools mentioned in previous sections for their benefit.
+
+### Week three: Business cases and benefits
+This section show how lack accessibility in services often means that the service is unusable by significant portion of population. Designing with focus on accessibility can also help to create user experience that is better for everyone.
+
+This section also explains possible ROI for digital accessibility, mostly focusing on broader userbase, whether it is gained from people who need to use accessibility tools (about 25% of popoulation has some sort of disability), or from increase in brand reputation. Another important point is that proper support for accessibility can in some cases be mandated by law and non-compliance can lead to litigation.
