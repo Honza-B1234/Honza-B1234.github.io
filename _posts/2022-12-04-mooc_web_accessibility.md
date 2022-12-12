@@ -40,3 +40,21 @@ This section introduces the the concept of visual overload and puts it into cont
 This section show how lack accessibility in services often means that the service is unusable by significant portion of population. Designing with focus on accessibility can also help to create user experience that is better for everyone.
 
 This section also explains possible ROI for digital accessibility, mostly focusing on broader userbase, whether it is gained from people who need to use accessibility tools (about 25% of popoulation has some sort of disability), or from increase in brand reputation. Another important point is that proper support for accessibility can in some cases be mandated by law and non-compliance can lead to litigation.
+
+### Week four: Principles, standards, and checks
+This section servers as an introduction WAI Web Content Accessibility Guidelines (WCAG) and its underlining principles. Also included is in-depth explanaiton of each principle, its components and examples of methods to assess if website adheres to them.
+
+#### POUR - the four principles
+WCAG is governed by four princibles and each of those can be further devided into specific guidelines and success criteria with three levels of compliance.
+
+##### Perceivability
+Perceivability focuses on information and how it can be presented wo meet the needs of different people with different conditions. Most recognizible parts of this are proper use of Alt-text for pictures and charts, transcripts and CC for for audio, or audio description for videos.
+
+##### Operability
+Operability principle is about ensuring everyone can properly use the website and its features. This includes providing multiple control methods (mouse, keayboard, speech...)
+
+##### Understandability
+Understandable website has to be presented in consistent and uncomplicated manner. Some examples of pracitce for understandability is proper use of headings, labels on buttons, as weel as easy to understand instructions for user inputs.
+
+##### Robustness
+Robust website is built in a way that ensures it will be usable with wide variety of browsers or assistive tools. Website that is not compatible with assistive tools can not be used by people who are rely on it.
