@@ -18,7 +18,7 @@ Web accessibility is very broad and important topic. Introduction to Web Accessi
 
 I think this course is great introduction to the topic. I appreciate that it often references specific standards, which means you always know where to go for more details.
 
-### Week one: Introduction
+### Week one: Introduction {: week1}
 This module introduces different accessibility tools for web, who uses them and how are they used. What like about this course is that it goes a bit below the surface i.e.: I knew what is screen reader before enrolling into this MOOC, but i have never really seen anyone using it, or the fact that even within people with similar disability the use of accessibility tools can vary. 
 
 #### So what is Web Accessibility?
@@ -26,7 +26,7 @@ So far I have learned that from design perspective disability can be seen as mis
 
 One of the important points this module makes is that the core principles of accessibility are benefitial to everyone, even to people without disabilities.
 
-### Week two: People and digital technology
+### Week two: People and digital technology {: week2}
 Second module goes in detail on specific accessibility tools and is further divided by type of impairment, but there is also section dedicated to technological standards and importance of user testing when it comes to accessibility.
 
 #### Physical disabilities
@@ -41,12 +41,12 @@ Focus of this section is on closed captions and transcripts used by people with 
 #### Cognitive and Learning disabilities 
 This section introduces the the concept of visual overload and puts it into context of cognitive or learning disability. For example websites that are too "busy" and hard to navigate for people without disabilities can be almost unusable to those with disabilities. Users with cognitive or learning disability can also use some combination of accesibility tools mentioned in previous sections for their benefit.
 
-### Week three: Business cases and benefits
+### Week three: Business cases and benefits {: week3 }
 This section show how lack accessibility in services often means that the service is unusable by significant portion of population. Designing with focus on accessibility can also help to create user experience that is better for everyone.
 
 This section also explains possible ROI for digital accessibility, mostly focusing on broader userbase, whether it is gained from people who need to use accessibility tools (about 25% of popoulation has some sort of disability), or from increase in brand reputation. Another important point is that proper support for accessibility can in some cases be mandated by law and non-compliance can lead to litigation.
 
-### Week four: Principles, standards, and checks
+### Week four: Principles, standards, and checks {: week4 }
 This section servers as an introduction WAI Web Content Accessibility Guidelines (WCAG) and its underlining principles. Also included is in-depth explanaiton of each principle, its components and examples of methods to assess if website adheres to them.
 
 #### POUR - the four principles
@@ -64,7 +64,7 @@ Understandable website has to be presented in consistent and uncomplicated manne
 ##### Robustness
 Robust website is built in a way that ensures it will be usable with wide variety of browsers or assistive tools. Website that is not compatible with assistive tools can not be used by people who are rely on it.
 
-### Week five: Getting started with accessibility in your organization
+### Week five: Getting started with accessibility in your organization {: week5 }
 The last section shows how to plan and manage web accessibility. It is based on [W3C guide "Planning and Managing Web Accessibility"](https://www.w3.org/WAI/planning-and-managing/) which describes web accessibility management as a four stage process, which can be further broken down to specific tasks. Involving people with disabilities in every step of this process is crutial to make sure you design with them and for them.
 
 #### Initiate and Plan
