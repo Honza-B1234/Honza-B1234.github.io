@@ -9,9 +9,14 @@ categories: edTech
 
 ## Why did I sign up for Introduction to Web Accessibility MOOC?
 
+Introduction to Web Accessibility is a MOOC created and run by W3Cx.
+
 I enrolled into this course because I wanted to know more about how other people interact with web.
 
 ## How did it go?
+Web accessibility is very broad and important topic. Introduction to Web Accessibility MOOC was in my opinion very intense, densely packed with information and extremely time consuming. As a result I was often unable to keep regular learning schedule and I had to do "study sprints" to catch up. 
+
+I think this course is great introduction to the topic. I appreciate that it often references specific standards, which means you always know where to go for more details.
 
 ### Week one: Introduction
 This module introduces different accessibility tools for web, who uses them and how are they used. What like about this course is that it goes a bit below the surface i.e.: I knew what is screen reader before enrolling into this MOOC, but i have never really seen anyone using it, or the fact that even within people with similar disability the use of accessibility tools can vary. 
@@ -58,3 +63,29 @@ Understandable website has to be presented in consistent and uncomplicated manne
 
 ##### Robustness
 Robust website is built in a way that ensures it will be usable with wide variety of browsers or assistive tools. Website that is not compatible with assistive tools can not be used by people who are rely on it.
+
+### Week five: Getting started with accessibility in your organization
+The last section shows how to plan and manage web accessibility. It is based on [W3C guide "Planning and Managing Web Accessibility"](https://www.w3.org/WAI/planning-and-managing/) which describes web accessibility management as a four stage process, which can be further broken down to specific tasks. Involving people with disabilities in every step of this process is crutial to make sure you design with them and for them.
+
+#### Initiate and Plan
+ - Explore current tools, standards, practices and laws
+ - Set objectives
+ - Advocate for change
+ - Create policy
+ - Assign roles
+ - Identify issues with current state of website
+ - Set criteria for success
+ - Engage with stakeholders 
+
+#### Implement and Sustain
+ - Build
+    - Build knowledge
+    - Decide priorities
+    - Assign tasks
+    - Track progress
+ - Deploy 
+ - Review
+    - Monitor websites
+    - Engage with stakeholders
+    - Track standards and legislation
+ - Repeat
