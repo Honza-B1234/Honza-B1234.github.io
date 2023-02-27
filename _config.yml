@@ -120,7 +120,7 @@ pagination:
   enabled: true
 
 # Comments
-disqus_shortname: # put your disqus shortname
+disqus_shortname: HonzaB1234
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # External sources.
