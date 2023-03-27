@@ -11,7 +11,7 @@ comments: true
 Tank číslo 23 jsem si vybral především proto, že je růžový. Rovněž mi příjde zajímavý tím, že tank jako takový pravděpodobně nikdy nebyl zamýšlen jako umělecký objekt, i přes to byl ale tank číslo 23 dlouhá léta vystavován. Růžová barva tanku pak není ani tak uměleckým vyjádřením, jako spíše protestním vyjádřením umělce.
 
 <figure>
-    <img src="/assets/img/tank23.jpg" alt="Růžový tank. Autor díla - David Černý. Autor fotografie - Bazi">
+    <img src="/assets/img/tank23.jpg" alt="Růžový tank. Autor díla - David Černý. Autor fotografie - Bazi" width="800">
     <figcaption>Růžový tank. Autor díla - David Černý. Autor fotografie - Bazi</figcaption>
 </figure>
 
